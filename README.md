@@ -11,9 +11,9 @@
 
 git clone `https://github.com/rojaroshini6/Movie-Finder.git`
 
-2) cd to the folder movie-finder-app.
+2) cd to the folder movie-finder.
 
-cd movie-finder-app
+cd movie-finder
 
 ### Installation
 Give the following command in the command line.
